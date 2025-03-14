@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'INTL Text';
+    src: url('https://cdn.jsdelivr.net/gh/josemaestreb/INTL/INTLText-Medium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/josemaestreb/INTL/INTLText-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
